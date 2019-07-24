@@ -1,0 +1,10 @@
+.headerComp {
+    height: 100px;
+    text-align: center;
+    width: 100%;
+}
+
+h1 {
+    color:red;
+    text-align: center;
+}
